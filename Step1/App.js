@@ -5,7 +5,7 @@ export default function YourApp() {
   return (
     <View style={{ flex: 1, justifyContent: "center", alignItems: "center" }}>
       <Text>
-        Try editing me! 🎉
+        EC-500 homework7
       </Text>
     </View>
   );
